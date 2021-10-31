@@ -12,7 +12,7 @@ namespace Calculator
         {
             int num1 = 0; int num2 = 0;
 
-            Console.WriteLine("Calculadora Console em C#\r");
+            Console.WriteLine("Calculadora Console em C#\r"); //Escreve na tela a msg indicada entre ""
             Console.WriteLine("------------------------\n");
 
             Console.WriteLine("Digite um numero, e pressione Enter");
